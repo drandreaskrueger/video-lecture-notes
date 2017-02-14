@@ -50,8 +50,8 @@ Sound quality is mediocre, I did not catch everything.
 65:42 (?)  
 67:47 video end  
 
+### contributors
 Please fork, edit/correct/extend, and pull request. Thanks.  
 
-### contributors
 * https://github.com/drandreaskrueger
 
