@@ -4,10 +4,10 @@ Shai Halevi, IBM at CRYPTO 2011 in UC Santa Barbara 2011-08-16
 
 TOC of the video https://www.youtube.com/watch?v=jIWOR2bGC7c  
 of this event http://www.iacr.org/conferences/crypto2011/program.shtml  
-with the slides available at https://shaih.github.io/presentations.html (video has low quality, so do get the 2011 PDF slides while listening).
+with the slides available at https://shaih.github.io/presentations.html (video has low quality, so better watch the 2011 slides PDF while listening).
 
 ### TOC part 1
-N.B.: Have not fully understood it, and discovered slides only near the end. So this might have actual errors in it, please correct. And extend anyways, and make more explicit. 
+N.B.: Have only partly understood it, and discovered the slides only near the end. So this might have actual errors in it, please correct - thanks. 
 
 00:00 high-level view  
 01:18 example  
@@ -49,5 +49,32 @@ N.B.: Have not fully understood it, and discovered slides only near the end. So 
 39:00 Chimeric H.E. = SWHE + MHE (multiplicative, e.g. Elgamal)  
 42:00 can do without squashing & SSSP  
 
-to be continued in part 2...
+### TOC part 1
+video https://www.youtube.com/watch?v=huLGjBpj3Os  
+event, and slides - see above.  
+
+00:00 Brakerski-Vaikuntanathan 2011b intro  
+01:10 LWE Regev 2005  
+03:20 as hard as some worst-case lattice problems in dim n  
+03:50 used extensively in crypto  
+04:10 [BV'11b] construction  
+05:55 "close" = to space orthogonal to secret key vector  
+06:45 get addit.homomorphic for free. But how to multiply? Tensor product?  
+09:00 multiply more than once?  
+...  
+45:50 putting it all together  
+...  
+50:20 what we have so far  
+50:37 security based on LWE: modulus, noise and depth  
+51:40 variants & optimizations: e.g. bootstrapping, batching  
+55:08 overhead reduction --> quasilinear  
+55:50 current (2011) status of H.E. constructions  
+
+
+
+### contributors
+Please fork, edit/correct/extend, and pull request. Thanks.    
+
+* https://github.com/drandreaskrueger
+
 
