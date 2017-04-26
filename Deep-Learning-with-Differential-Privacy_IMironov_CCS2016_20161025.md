@@ -1,11 +1,12 @@
-
 # Deep Learning with Differential Privacy
 Ilya Mironov, at CCS 2016 in Vienna 2016-10-25  
 
 TOC of the video https://www.youtube.com/watch?v=ZxDBEyjiPxI  
 of this event https://www.sigsac.org/ccs/CCS2016/agenda/  
+with the slides (similar to) https://www.ece.cmu.edu/~ece734/f16-18734/lectures/Deep_Learning_with_differential_privacy.pdf  
 about this paper https://arxiv.org/abs/1607.00133  
 with sourcecode at https://github.com/tensorflow/models/tree/master/differential_privacy  
+
 
 ### TOC
 
