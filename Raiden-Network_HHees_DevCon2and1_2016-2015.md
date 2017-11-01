@@ -2,10 +2,11 @@
 # Raiden Network
 Heiko Hees, at Devcon2 Shanghai, and DevCon1 London
 
-### TOC DevCon 2 (2016)
-#### The Raiden Network 
+### DevCon 2 (2016) - The Raiden Network 
 
 [https://www.youtube.com/watch?v=4igFqFqQga4](https://www.youtube.com/watch?v=4igFqFqQga4)
+
+#### TOC
 
 01:15 problem reason: global consensus  
 02:23 state channel network  
@@ -27,10 +28,11 @@ Heiko Hees, at Devcon2 Shanghai, and DevCon1 London
 14:33 plan/goals: generalisation; generalized infrastructure  
 15:23 conclusion  
 
-### TOC DevCon 1 (2015)
-#### Raiden: Scaling Out With Offchain State Networks
+### DevCon 1 (2015) - Raiden: Scaling Out With Offchain State Networks
 
 [https://www.youtube.com/watch?v=h791zjvf3uQ](https://www.youtube.com/watch?v=h791zjvf3uQ)
+
+#### TOC 
 
 00:30 problems: scalability, tx finality, tx privacy  
 01:25 raiden ~ lightning  
