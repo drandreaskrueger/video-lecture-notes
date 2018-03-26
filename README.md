@@ -7,5 +7,6 @@ TOCs of talks about blockchain, cryptocurrencies, bitcoin, ethereum, encryption,
 * [Deep Learning with Differential Privacy](Deep-Learning-with-Differential-Privacy_IMironov_CCS2016_20161025.md) (Ilya Mironov, at CCS 2016 in Vienna 2016-10-25)
 * [Raiden Network](Raiden-Network_HHees_DevCon2and1_2016-2015.md) (Heiko Hees, 2016 DevCon Two and 2015 DevCon One)
 * [EEA LaunchEvent](EEA_LaunchEvent_NY_20170228.md) (7 hours, lectures, panels, founding members, NewYork 2017-02-28)
+* [EEA Quorum - Demos](EEA-Quorum_JPMorgan-Zcash_QuorumDemo_NY_20171020.md) - 3 demos by JPMorgan+Zcash (NY 2017-10-20)
 
 [![CC-BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png) CC BY-SA 4.0](LICENSE) license.
